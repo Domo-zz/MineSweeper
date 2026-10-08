@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MineSweeper",
+            "request": "launch",
+            "mainClass": "minesweeper.MineSweeperMain",
+            "classPaths": ["${workspaceFolder}/bin"]
+        }
+    ]
+}
